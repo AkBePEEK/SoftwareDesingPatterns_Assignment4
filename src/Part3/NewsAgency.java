@@ -26,7 +26,7 @@ public class NewsAgency implements Observable{
     @Override
     public void notifyObservers() {
         for (Observer o : observers){
-
+            o.update(newsAgency);
         }
     }
 }

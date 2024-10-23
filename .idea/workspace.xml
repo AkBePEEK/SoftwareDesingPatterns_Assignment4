@@ -4,20 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ca9a35-6c8b-49f7-9e94-5c921b3422d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/Interpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/NumberExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part1/OperationExpression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part2/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part2/Memento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part2/TextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3/NewsAgency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3/NewsChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3/Observable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3/Observer.java" afterDir="false" />
+    <list default="true" id="44ca9a35-6c8b-49f7-9e94-5c921b3422d5" name="Changes" comment="final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/NumberExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/NumberExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part1/OperationExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1/OperationExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part2/History.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2/History.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part2/TextEditor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2/TextEditor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3/NewsAgency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3/NewsAgency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3/NewsChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3/NewsChannel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,21 +31,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AkBePEEK"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AkBePEEK&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AkBePEEK/SoftwareDesingPatterns_Assignment4.git",
-    "accountId": "28436757-9c9d-47e6-ae90-a91185168093"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AkBePEEK/SoftwareDesingPatterns_Assignment4.git&quot;,
+    &quot;accountId&quot;: &quot;28436757-9c9d-47e6-ae90-a91185168093&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2nfN6kCB17R70WAPrYCJB1z8qkg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -58,6 +54,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -70,6 +67,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SoftwareDesignPattern4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,11 +97,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1729359999380</updated>
-      <workItem from="1729360000421" duration="2624000" />
+      <workItem from="1729360000421" duration="6394000" />
+      <workItem from="1729420374431" duration="4469000" />
+      <workItem from="1729623672449" duration="5764000" />
     </task>
+    <task id="LOCAL-00001" summary="final">
+      <option name="closed" value="true" />
+      <created>1729362706719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729362706719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>5</line>
+          <properties class="Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

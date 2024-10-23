@@ -1,15 +1,13 @@
 package Part3;
 
-import java.nio.channels.Channel;
-
 public class NewsChannel implements Observer {
-    private Channel channel;
+    private final String channel;
     private String currentHeadline;
-    public NewsChannel(Channel channel) {
+    public NewsChannel(String channel) {
         this.channel = channel;
     }
     private void display(){
-        System.out.println("Current Headline: " + currentHeadline);
+        System.out.println(channel + " - Breaking news: " + currentHeadline);
     }
     @Override
     public void update(String headline) {

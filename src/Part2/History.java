@@ -3,14 +3,14 @@ package Part2;
 import java.util.Stack;
 
 public class History {
-    private final Stack<String> history = new Stack<>();
-    public void push(String item) {
+    private final Stack<Memento> history = new Stack<>();
+    public void saveState(Memento item) {
         history.push(item);
     }
-    public String pop() {
-        if (history.isEmpty()) {
-            return null;
+    public Memento undo() {
+        if (!history.isEmpty()) {
+            return history.pop();
         }
-        return history.pop();
+        return null;
     }
 }
